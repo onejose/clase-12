@@ -19,8 +19,8 @@ my_html <-
 <title> Título de la página: ejemplo de clase </title>
 </head>
 <body>
-<h1> Title 1.</h1>
-<h2> Subtitle <u>subrayado-1</u>. </h2>
+<h1 style="color:red">  Juan Jose Gutierrez</h1>
+<h2> Subtitle: <u>Hola me gusta R (pero mas STATA)</u>. </h2>
 <p> Este es un párrafo muy pequeño que se encuentra dentro de la etiqueta <b>p</b> de <i>html</i> </p>
 <a href="https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol"> link a wikipedia </a>
 </body>
